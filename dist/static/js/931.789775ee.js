@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshopping_web"]=self["webpackChunkshopping_web"]||[]).push([[931],{80931:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var s=function(){var e=this,n=e._self._c;return n("div",{staticClass:"body"})},u=[],a={name:"Detail",components:{},created(){},data(){return{}},methods:{}},r=a,c=t(1001),i=(0,c.Z)(r,s,u,!1,null,"6b028c34",null),l=i.exports}}]);
+//# sourceMappingURL=931.789775ee.js.map
